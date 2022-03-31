@@ -1,2 +1,2 @@
-# alx-system_engineering-devops
-The beginning of Devops Engineering
+#!/bin/bash
+shell basic repo
